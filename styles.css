@@ -1,0 +1,30 @@
+h1 , h2 {
+    font-family: 'Roboto', sans-serif;
+  
+  }
+  
+  .table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: 'Arial', sans-serif;
+    text-align: left;
+  }
+  
+  .table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .table thead {
+    background-color: #4CAF50;
+    color: white:
+  }
+  
+  .table tr:nth-child(even){
+    background-color: #f2f2f2;
+  }
+  
+  .table tr:hover {
+    background-color: #ddd;
+  
+  }
